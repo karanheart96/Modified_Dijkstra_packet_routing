@@ -49,11 +49,11 @@ For intellij, after download and open our program, follow these steps to add mav
 5)Click ok again ok then apply.
 6)Repeat the same for the other two dependencies.
 
-After adding required dependencies, navigate to Main.java file. In this file, we provide a sample graph for testing and demo purposes. In the main method, we first initialize the graph, then we can run some or all the algorithms we provided. The results should be shown in visualization graphs like below.
+After adding required dependencies, navigate to Main.java file. In this file, we provide a sample graph for testing and demo purposes. In the main method, we first initialize the graph, then we can run some or all the algorithms we provided.
 
-  
- 
- 
+
+
+
 
 We can see that these paths are indeed the correct path with the given constraints.
 
