@@ -1,7 +1,7 @@
 # Modified_Dijkstra_packet_routing
 
 
-Heartlin Karan Machado
+Authors : Heartlin Karan Machado and
 Xun Wang
 
 
