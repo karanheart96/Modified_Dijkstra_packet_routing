@@ -42,11 +42,17 @@ org.jgrapht:jgrapht-ext:1.0.0
 com.github.vlsi.mxgraph:jgraphx:4.0.5
 
 For intellij, after download and open our program, follow these steps to add maven dependencies:
+
 1)Go to File->Project structure->Libraries.
+
 2)Click the '+' button and choose from maven.
+
 3)In the search box type "org.jgrapht" and hit the search button.
+
 4)from the dropdown menu which appears after it finishes search choose org.jgrapht:jgrapht-core:1.0.0
+
 5)Click ok again ok then apply.
+
 6)Repeat the same for the other two dependencies.
 
 After adding required dependencies, navigate to Main.java file. In this file, we provide a sample graph for testing and demo purposes. In the main method, we first initialize the graph, then we can run some or all the algorithms we provided.
